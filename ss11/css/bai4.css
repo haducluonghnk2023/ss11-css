@@ -12,7 +12,7 @@
     height: 60px;
     align-items: center;
 }
-.arround{
+.a{
     background-color: bisque;
 }
 h3{
@@ -42,7 +42,7 @@ img{
     position: relative;
     bottom: 70px;
 }
-.main{
+.b{
     display: flex;
     justify-content: space-around;
     height: 500px;
